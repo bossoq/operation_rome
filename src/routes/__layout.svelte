@@ -8,13 +8,11 @@
   import Modal from '$lib/components/Modal.svelte'
   import { darkTheme, modalViewed } from '$lib/store'
 
-  const url = 'https://simplesveltekit.vercel.app'
-  const title = 'Simple Sveltekit Template'
-  const description = 'Build a web app with Sveltekit, quickly.'
+  const url = 'https://operationrome.vercel.app'
+  const title = 'Operation Rome Count Down'
+  const description = 'Operation Rome Count Down for 9arm'
 
-  const menuItems = [
-    { name: 'Made by bossoq', url: 'https://github.com/bossoq/simple-sveltekit-template' }
-  ]
+  const menuItems = [{ name: 'Made by bossoq', url: 'https://github.com/bossoq/operation_rome' }]
   const imageUrl = `${url}/screenshot.jpg`
   const gtagId = null
   const themeIcons = ['🌞 Toggle Light mode', '🌙 Toggle Dark mode']

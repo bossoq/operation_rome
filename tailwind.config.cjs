@@ -16,6 +16,12 @@ module.exports = {
           '0%': { opacity: 1 },
           '100%': { opacity: 0 }
         }
+      },
+      fontSize: {
+        '9xl': ['12rem', '12rem']
+      },
+      backgroundImage: {
+        rome: "url('/background.jpg')"
       }
     }
   },
