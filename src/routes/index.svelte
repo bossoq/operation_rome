@@ -6,7 +6,7 @@
   <div
     class="w-full h-screen flex flex-col gap-6 justify-center items-center bg-white dark:bg-black bg-opacity-40 dark:bg-opacity-90"
   >
-    <div class="flex flex-col gap-6 justify-center items-center">
+    <div class="flex flex-col gap-6 justify-center items-center p-4">
       <p class="text-3xl sm:text-4xl dark:text-teal-200 text-teal-800 text-center">
         "ผมจะเล่าเรื่อง Operation Rome ในอีก 5 ปีข้างหน้า"
       </p>
