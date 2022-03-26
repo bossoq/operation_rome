@@ -8,7 +8,7 @@
   import Modal from '$lib/components/Modal.svelte'
   import { darkTheme, modalViewed } from '$lib/store'
 
-  const url = 'https://operationrome.vercel.app'
+  const url = 'https://operationrome.bossoq.live'
   const title = 'Operation Rome Count Down'
   const description = 'Operation Rome Count Down for 9arm'
 
