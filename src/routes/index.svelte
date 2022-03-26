@@ -2,7 +2,7 @@
   import Timer from '$lib/components/Timer.svelte'
 </script>
 
-<div class="w-full h-screen flex bg-rome">
+<div class="w-full h-screen flex bg-rome bg-center">
   <div
     class="w-full h-screen flex flex-col gap-6 justify-center items-center bg-white dark:bg-black bg-opacity-40 dark:bg-opacity-90"
   >
