@@ -14,7 +14,7 @@
         href="https://www.twitch.tv/armzi/clip/CharmingSolidMeerkatBibleThump-4r9QYutPWmFQQR97"
         target="_blank"
         class="text-2xl sm:text-3xl dark:text-gray-500 text-gray-800 text-center"
-        >นายอาร์ม - 19 มิ.ย. 2565 23:00 น.</a
+        >นายอาร์ม - 19 มี.ค. 2565 23:00 น.</a
       >
     </div>
     <Timer />
